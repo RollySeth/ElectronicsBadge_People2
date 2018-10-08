@@ -25,3 +25,32 @@ Make sure you have all the parts
 
 & the related equipment
 ![equipment](https://user-images.githubusercontent.com/9293705/46604088-e4b2b180-caa9-11e8-815c-aa7beda94b09.png)
+
+
+Step 2
+Start with soldering the resistor. The direction doesnt matter
+![20180928_195220](https://user-images.githubusercontent.com/9293705/46610311-3ca7e300-cabf-11e8-9152-f1d686b3c01b.jpg)
+
+
+Step 3-
+Next, solder the LEDs, the direction of the LEDs should be as shown below-
+![people22](https://user-images.githubusercontent.com/9293705/46610543-e8e9c980-cabf-11e8-9154-d97fdc71a20b.jpg)
+
+
+Step 4 & 5 -
+Solder Battery holder followed by SPDT switch
+![20180928_195651](https://user-images.githubusercontent.com/9293705/46610681-3f570800-cac0-11e8-9509-670df689db0e.jpg)
+
+
+Step 6-
+Test the circuit by sliding the CR2032 coincell into the battery holder. Positive side of the battery facing away from the board.
+![20180928_195743](https://user-images.githubusercontent.com/9293705/46610769-8cd37500-cac0-11e8-8314-ba81bf1ae45c.jpg)
+
+
+Step 7-
+Finally solder the clutch pin back & wear it :)
+![20180928_200335](https://user-images.githubusercontent.com/9293705/46610799-a2489f00-cac0-11e8-8a77-a284c4c3749e.jpg)
+
+
+
+
